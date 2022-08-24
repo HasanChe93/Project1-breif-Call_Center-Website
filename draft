@@ -1,0 +1,32 @@
+      <!-- <form>
+          <div class="firs-Question-Rate">
+            <div class="questionOne">
+              <h3>1- Sets goals and objectives for the department:</h3>
+            </div>
+               <div class="ratings">
+            <input type="radio" id="css" name="fav_language" value="CSS" />  
+            <label for="Poor">Poor</label>
+             
+            <input type="radio" id="Good" name="fav_language" value="JavaScript"/>
+              <label for="Good">Good</label>
+            <input type="radio" id="html" name="fav_language" value="HTML" />  
+            <label for="Excellent">Excellent</label>
+          </div>
+        </div>
+
+
+          <div class="sec-Question-Rate">
+            <input type="radio" id="html" name="fav_language" value="HTML" />  
+            <label for="html">HTML</label>
+              <input type="radio" id="css" name="fav_language" value="CSS" />  
+            <label for="css">CSS</label>
+             
+            <input
+              type="radio"
+              id="javascript"
+              name="fav_language"
+              value="JavaScript"
+            />
+              <label for="javascript">JavaScript</label>
+          </div>
+        </form> -->
